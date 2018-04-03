@@ -111,17 +111,17 @@ Tambien esta estos editores
 
 <!-- Enlaces de Imagenes -->
 [basico]: ../img/ProgBasica-02.jpg  "Programacion Basica"
-[vscode]: /img/vscode.png  "Editor Vs Code"
-[atom]: /img/atom.png  "Editor Atom"
-[console]: /img/console.png "Console"
-[alert]: /img/alert.png "Ventana Emergente"
-[editor]: /img/editor.jpg "Editores"
-[editor-1]: /img/editor1.png "Editores"
+[vscode]: ../img/vscode.png  "Editor Vs Code"
+[atom]: ../img/atom.png  "Editor Atom"
+[console]: ../img/console.png "Console"
+[alert]: ../img/alert.png "Ventana Emergente"
+[editor]: ../img/editor.jpg "Editores"
+[editor-1]: ../img/editor1.png "Editores"
 
 
 <!-- Enlaces de Gifs -->
 
-[gif_page]: /gif/blackPage.gif "Paso a paso como ingresar a una pagina en blanco"
-[gif_alert-var]: /gif/console.gif "Variable"
-[gif_var]: /gif/consolename.gif "Name Var"
-[gif_prompt]: /gif/consoleprompt.gif "prompt"
+[gif_page]: ../gif/blackPage.gif "Paso a paso como ingresar a una pagina en blanco"
+[gif_alert-var]: ../gif/console.gif "Variable"
+[gif_var]: ../gif/consolename.gif "Name Var"
+[gif_prompt]: ../gif/consoleprompt.gif "prompt"
