@@ -99,6 +99,28 @@ Tambien esta estos editores
 [**PhpStorm**](https://www.jetbrains.com/phpstorm/download/#section=linux)
 [**Eclipse**](https://www.eclipse.org/downloads/)
 
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <center>
+   <footer>
+      <a style="float: left" rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="../img/cc.png"></a>
+ <p>
+ <br />
+ <br />
+       © 2018  -
+         <a href="https://github.com/calypsobronte">Lina María Montaño Ramírez</a>
+     </p>
+
+   </footer>
+   </center>
+
+
+
+
 <!-- Enlaces de Webs -->
 [Ingresa al curso ¡Aca!]:https://platzi.com/clases/programacion-basica/ "Basico de Programacion"
 [`Mozilla`]:https://www.mozilla.org/es-ES/firefox/new/ "Firefox-Mozilla"
