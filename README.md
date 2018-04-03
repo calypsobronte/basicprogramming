@@ -11,4 +11,4 @@ Curso realizado en [**Platzi**](https://platzi.com/) y como tutor [**Freddy Vega
 
 * #### Empieza con:
   * [Mi primera línea de código](/myFirstLineofCode/Notes.md)
-  * []
+  * 
