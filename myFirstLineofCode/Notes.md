@@ -110,18 +110,18 @@ Tambien esta estos editores
 
 
 <!-- Enlaces de Imagenes -->
-[basico]: /img/ProgBasica-02.jpg  "Programacion Basica"
-[vscode]: /img/vscode.png  "Editor Vs Code"
-[atom]: /img/atom.png  "Editor Atom"
-[console]: /img/console.png "Console"
-[alert]: /img/alert.png "Ventana Emergente"
-[editor]: /img/editor.jpg "Editores"
-[editor-1]: /img/editor1.png "Editores"
+[basico]: /basicprogramming/img/ProgBasica-02.jpg  "Programacion Basica"
+[vscode]: /basicprogramming/img/vscode.png  "Editor Vs Code"
+[atom]: /basicprogramming/img/atom.png  "Editor Atom"
+[console]: /basicprogramming/img/console.png "Console"
+[alert]: /basicprogramming/img/alert.png "Ventana Emergente"
+[editor]: /basicprogramming/img/editor.jpg "Editores"
+[editor-1]: /basicprogramming/img/editor1.png "Editores"
 
 
 <!-- Enlaces de Gifs -->
 
-[gif_page]: /gif/blackPage.gif "Paso a paso como ingresar a una pagina en blanco"
-[gif_alert-var]: /gif/console.gif "Variable"
-[gif_var]: /gif/consolename.gif "Name Var"
-[gif_prompt]: /gif/consoleprompt.gif "prompt"
+[gif_page]: /basicprogramming/gif/blackPage.gif "Paso a paso como ingresar a una pagina en blanco"
+[gif_alert-var]: /basicprogramming/gif/console.gif "Variable"
+[gif_var]: /basicprogramming/gif/consolename.gif "Name Var"
+[gif_prompt]: /basicprogramming/gif/consoleprompt.gif "prompt"
