@@ -1,7 +1,7 @@
 
 [![basic](../img/home.png)](https://calypsobronte.github.io/basicprogramming/)
 
-# Explicacion de video Mi primera linea de cogigo
+# Explicacion de video Mi primera linea de codigo
 
 Con este pordras conocer un poco la base de como crear codigo de una manera sencilla. [Ingresa al curso ¡Aca!][]
 

@@ -36,7 +36,7 @@ Nota: ***JavaScript*** no tiene nada que ver con el lenguaje de programación **
 
 ***Version Html si te encuentras en Markdown :arrow_upper_right:***    [HTML](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/what-is-html-css-js/Notes.html)
 
-  [![basica](../../img/siguiente.png)]()
+  [![basica](../../img/siguiente.png)](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/javascript-is-not-java/Notes.html)
 
  
  <br />
