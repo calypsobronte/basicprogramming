@@ -14,5 +14,7 @@ Curso realizado en [**Platzi**](https://platzi.com/) y como tutor [**Freddy Vega
     * [**Markdown**](https://github.com/calypsobronte/basicprogramming/blob/master/myFirstLineofCode/Notes.md)
     * [**HTML**](https://calypsobronte.github.io/basicprogramming/myFirstLineofCode/Notes.html)
   * #### Fundamentos de Programación
-
+    - ##### Que es HTML-CSS-JS
+      * [**Markdown**](https://github.com/calypsobronte/basicprogramming/blob/master/programmingFundamentals/what-is-html-css-js/Notes.md)
+      * [**HTML**](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/what-is-html-css-js/Notes.html)
 <!-- console.log("Hola platzi");-->

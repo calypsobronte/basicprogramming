@@ -104,7 +104,7 @@ Tambien esta estos editores
 
 ***Version Html si te encuentras en Markdown :arrow_upper_right:***    [HTML](https://calypsobronte.github.io/basicprogramming/myFirstLineofCode/Notes.html)
 
-  [![basica](../img/siguiente.png)](../programmingFundamentals/what-is-html-css-js/Notes.md)
+  [![basica](../img/siguiente.png)](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/what-is-html-css-js/Notes.html)
 
  <br />
  <br />
