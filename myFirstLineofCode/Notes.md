@@ -1,3 +1,6 @@
+
+[![basic](../img/home.png)](https://calypsobronte.github.io/basicprogramming/)
+
 # Explicacion de video Mi primera linea de cogigo
 
 Con este pordras conocer un poco la base de como crear codigo de una manera sencilla. [Ingresa al curso ¡Aca!][]
@@ -98,6 +101,10 @@ Tambien esta estos editores
 [**Netbeans**](https://netbeans.org/downloads/)
 [**PhpStorm**](https://www.jetbrains.com/phpstorm/download/#section=linux)
 [**Eclipse**](https://www.eclipse.org/downloads/)
+
+***Version Html si te encuentras en Markdown :arrow_upper_right:***    [HTML](https://calypsobronte.github.io/basicprogramming/myFirstLineofCode/Notes.html)
+
+  [![basica](../img/siguiente.png)](../programmingFundamentals/what-is-html-css-js/Notes.md)
 
  <br />
  <br />

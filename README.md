@@ -14,3 +14,5 @@ Curso realizado en [**Platzi**](https://platzi.com/) y como tutor [**Freddy Vega
     * [**Markdown**](https://github.com/calypsobronte/basicprogramming/blob/master/myFirstLineofCode/Notes.md)
     * [**HTML**](https://calypsobronte.github.io/basicprogramming/myFirstLineofCode/Notes.html)
   * #### Fundamentos de Programación
+
+<!-- console.log("Hola platzi");-->
