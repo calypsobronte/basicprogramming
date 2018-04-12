@@ -27,7 +27,7 @@ var respuesta = prompt ("¿Java es igual a JavaScript?");
 
 ***Version Html si te encuentras en Markdown :arrow_upper_right:***    [HTML](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/javascript-is-not-java/Notes.html)
 
-  [![basica](../../img/siguiente.png)]()
+  [![basica](../../img/siguiente.png)](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/first-steps-in-the-browser-with-alert/Notes.html)
 
  
  <br />

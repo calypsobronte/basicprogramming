@@ -22,6 +22,11 @@ Curso realizado en [**Platzi**](https://platzi.com/) y como tutor [**Freddy Vega
       * [**Markdown**](https://github.com/calypsobronte/basicprogramming/blob/master/programmingFundamentals/javascript-is-not-java/Notes.md)
       * [**HTML**](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/javascript-is-not-java/Notes.html)
 
+    - ##### Primeros pasos en el navegador con alert
+      * [**Markdown**](https://github.com/calypsobronte/basicprogramming/blob/master/programmingFundamentals/first-steps-in-the-browser-with-alert/Notes.md)
+      * [**HTML**](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/first-steps-in-the-browser-with-alert/Notes.html)
+
+
 
 
 
