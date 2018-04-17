@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img width=100% src="./img/banner.jpg">
+    <img width=100% src="./img/banner.png">
   </a>
 </p>
 
@@ -26,6 +26,9 @@ Curso realizado en [**Platzi**](https://platzi.com/) y como tutor [**Freddy Vega
       * [**Markdown**](https://github.com/calypsobronte/basicprogramming/blob/master/programmingFundamentals/first-steps-in-the-browser-with-alert/Notes.md)
       * [**HTML**](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/first-steps-in-the-browser-with-alert/Notes.html)
 
+    - ##### HTML, CSS, JavaScript de verdad
+      * [**Markdown**](https://github.com/calypsobronte/basicprogramming/blob/master/programmingFundamentals/HTML-CSS-JAVASCRIPT/Notes.md)
+      * [**HTML**](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/HTML-CSS-JAVASCRIPT/Notes.html)
 
 
 

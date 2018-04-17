@@ -34,7 +34,7 @@ Nota: ***JavaScript*** no tiene nada que ver con el lenguaje de programación **
 
 > *El .HTML lo lee el navegador y asi se muestra la magia que acabas de crear*
 
-***Version Html si te encuentras en Markdown :arrow_upper_right:***    [HTML](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/what-is-html-css-js/Notes.html)
+***Version Html si te encuentras en Markdown ↗️***    [HTML](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/what-is-html-css-js/Notes.html)
 
   [![basica](../../img/siguiente.png)](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/javascript-is-not-java/Notes.html)
 

@@ -102,7 +102,7 @@ Tambien esta estos editores
 [**PhpStorm**](https://www.jetbrains.com/phpstorm/download/#section=linux)
 [**Eclipse**](https://www.eclipse.org/downloads/)
 
-***Version Html si te encuentras en Markdown :arrow_upper_right:***    [HTML](https://calypsobronte.github.io/basicprogramming/myFirstLineofCode/Notes.html)
+***Version Html si te encuentras en Markdown ↗️***    [HTML](https://calypsobronte.github.io/basicprogramming/myFirstLineofCode/Notes.html)
 
   [![basica](../img/siguiente.png)](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/what-is-html-css-js/Notes.html)
 

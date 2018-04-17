@@ -62,9 +62,9 @@ alert(“el valor de z es” + z);
 En esta grafica lo visto anteriormente:
 ![console:var][gif_page]
 
-***Version Html si te encuentras en Markdown :arrow_upper_right:***    [HTML](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/first-steps-in-the-browser-with-alert/Notes.html)
+***Version Html si te encuentras en Markdown ↗️***    [HTML](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/first-steps-in-the-browser-with-alert/Notes.html)
 
-[![basica](../../img/siguiente.png)]()
+[![basica](../../img/siguiente.png)](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/HTML-CSS-JAVASCRIPT/Notes.html)
 
  <br />
  <br />
