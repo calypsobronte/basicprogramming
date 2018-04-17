@@ -151,7 +151,7 @@ var num1 = 20;  // correcto
 var n0m = "string"; // correcto
 var 5num = 40; // ERROR INCORRECTO 
 ```
-
+**YA CON ESTOS CONCEPTOS MAS CLAROS ESTAS LISTO PARA REALIZAR NUESTRO PRIMER PROYECTO 🤼‍**
 
 
 ***Version Html si te encuentras en Markdown ↗️***    [HTML](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/HTML-CSS-JAVASCRIPT/Notes.html)
