@@ -1,3 +1,4 @@
+[![basic](../../img/home.png)](https://calypsobronte.github.io/basicprogramming/)
 # HTML, CSS, JavaScript de verdad
 
 ***Los programadores pasan el 80% de su tiempo leyendo código y 20% escribiendo código, por esto es importante **SEGUIR BUENAS PRACTICAS**.***
@@ -55,7 +56,8 @@ ___
       ```
 ---
 ***OTRAS ETIQUETAS***
-  ```HTML
+  
+  ```html
   <h1>Texto muy grande</h1>
 
   <h2>Texto grande</h2>
@@ -87,8 +89,9 @@ ___
   <em> Otra forma de invocar cursiva</em>
   ```
 ---
+
 ![browser:html][img_html] 
-```HTML
+```html
 <!DOCTYPE html>
 <!-- Esto es una buena practica para indicar el estandar de HTML 5 -->
 <html>
