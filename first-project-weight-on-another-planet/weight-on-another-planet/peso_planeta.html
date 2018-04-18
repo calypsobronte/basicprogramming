@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>¿Cuánto pesas en la tierra?</title>
+    <style>
+            
+
+
+body {
+    background-image: url(../../gif/fondo.gif);
+    display: block;
+    margin: 8px;
+    color: #fdf2f2;
+}
+    </style>
+</head>
+
+<body>
+    <p>
+        <h1> ¿Cuánto pesas en la tierra?, calculemos tu peso en otro planeta. </h1>
+        con esta pequeña aplicacion web podra descubrir como es su peso en cada planeta.
+    </p>
+    <hr/>
+    <script type="text/javascript">
+        var peso = prompt("¿Cuánto pesas en la tierra?");
+        var planeta = prompt(
+            "Escoja su planeta favorito: digite \n 1.- Marte \n 2.- Jupiter \n 3.- Venus \n 4.- Saturno \n 5.- Mercurio \n 6.- Urano \n 7.- Neptuno \n 8.- Pluton"
+        );
+        planeta = parseInt(planeta);
+        peso = parseInt(peso);
+
+        // Declaracion de variables
+
+        var tierra = 9.8;
+        var marte = 3.711;
+        var jupiter = 24.8;
+        var venus = 8.87;
+        var mercurio = 3.7;
+        var saturno = 10.44;
+        var urano = 8.69;
+        var neptuno = 11;
+        var pluton = 0.81;
+
+        // Calculemos
+
+        var v_marte = (peso * marte) / tierra;
+        console.log(v_marte);
+        var v_jupiter = (peso * jupiter) / tierra;
+        console.log(v_jupiter);
+        var v_venus = (peso * venus) / tierra;
+        console.log(v_venus);
+        var v_saturno = (peso * saturno) / tierra;
+        console.log(v_saturno);
+        var v_mercurio = (peso * mercurio) / tierra;
+        console.log(v_mercurio);
+        var v_urano = (peso * urano) / tierra;
+        console.log(v_urano);
+        var v_neptuno = (peso * neptuno) / tierra;
+        console.log(v_neptuno);
+        var v_pluton = (peso * pluton) / tierra;
+        console.log(v_pluton);
+
+        if (planeta == 1) {
+            document.write("Su peso en marte es: " + v_marte + " kilos");
+        } else if (planeta == 2) {
+            document.write("Su peso en jupiter es: " + v_jupiter + " kilos");
+        } else if (planeta == 3) {
+            document.write("Su peso en venus es: " + v_venus + " kilos");
+        } else if (planeta == 4) {
+            document.write("Su peso en saturno es: " + v_saturno + " kilos");
+        } else if (planeta == 5) {
+            document.write("Su peso en mercurio es: " + v_mercurio + " kilos");
+        } else if (planeta == 6) {
+            document.write("Su peso en uranio es: " + v_urano + " kilos");
+        } else if (planeta == 7) {
+            document.write("Su peso en neptuno es: " + v_neptuno + " kilos");
+        } else if (planeta == 8) {
+            document.write("Su peso en pluton es: " + v_pluton + " kilos");
+        } else {
+            document.write("Su peso no es de este planeta :v, pruebe que sea humano.");
+        }
+        document.write("<hr/>");
+        document.write("esto se debe a que la gravedad es distinta en cada planeta");
+    </script>
+</body>
+
+</html>

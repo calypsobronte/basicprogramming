@@ -156,7 +156,7 @@ var 5num = 40; // ERROR INCORRECTO
 
 ***Version Html si te encuentras en Markdown ↗️***    [HTML](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/HTML-CSS-JAVASCRIPT/Notes.html)
 
-[![basica](../../img/siguiente.png)]()
+[![basica](../../img/siguiente.png)](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/first-project-weight-on-another-planet/weight-on-another-planet/Notes.html)
 
  <br />
  <br />

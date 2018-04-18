@@ -30,6 +30,10 @@ Curso realizado en [**Platzi**](https://platzi.com/) y como tutor [**Freddy Vega
       * [**Markdown**](https://github.com/calypsobronte/basicprogramming/blob/master/programmingFundamentals/HTML-CSS-JAVASCRIPT/Notes.md)
       * [**HTML**](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/HTML-CSS-JAVASCRIPT/Notes.html)
 
+  * #### Primer proyecto: Peso en otro planeta
+    - ##### Peso en otro planeta
+      * [**Markdown**](https://github.com/calypsobronte/basicprogramming/blob/master/programmingFundamentals/first-project-weight-on-another-planet/weight-on-another-planet/Notes.md)
+      * [**HTML**](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/first-project-weight-on-another-planet/weight-on-another-planet/Notes.html)
 
 
 
@@ -37,3 +41,4 @@ Curso realizado en [**Platzi**](https://platzi.com/) y como tutor [**Freddy Vega
 
 
 <!-- console.log("Hola platzi");-->
+<!--<embed src="nombre_archivo.pdf#toolbar=0" type="application/pdf" width="800" height="600"></embed>-->
