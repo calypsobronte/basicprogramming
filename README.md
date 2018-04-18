@@ -32,7 +32,7 @@ Curso realizado en [**Platzi**](https://platzi.com/) y como tutor [**Freddy Vega
 
   * #### Primer proyecto: Peso en otro planeta
     - ##### Peso en otro planeta
-      * [**Markdown**](https://github.com/calypsobronte/basicprogramming/blob/master/programmingFundamentals/first-project-weight-on-another-planet/weight-on-another-planet/Notes.md)
+      * [**Markdown**](https://github.com/calypsobronte/basicprogramming/blob/master/first-project-weight-on-another-planet/weight-on-another-planet/Notes.md)
       * [**HTML**](https://calypsobronte.github.io/basicprogramming/programmingFundamentals/first-project-weight-on-another-planet/weight-on-another-planet/Notes.html)
 
 
